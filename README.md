@@ -1,6 +1,6 @@
 # Writing Heavy Metal Guitar Riffs With Python
-#### Video Demo:  https://youtu.be/EOAXEARPwSg
-#### Description:
+#### Video Demo:  
+[![Heavy Metal In Python](https://img.youtube.com/vi/EOAXEARPwSg/0.jpg)](https://www.youtube.com/watch?v=EOAXEARPwSg)
 ###### By: Kevin, Dec 2021
 
 ## Introduction
